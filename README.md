@@ -1,1 +1,1 @@
-# DiligentP.github.blog
+# DiligentP.Develop.blog
